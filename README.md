@@ -1,10 +1,10 @@
 # Aarav Chopra — Aspirational Portfolio
 
 ## Live Site
-https://ac2928.github.io/IS117FIRSTNEW/
+https://ac2928.github.io/IS-117-Final-Portfolio-Project/
 
 ## GitHub Repo
-https://github.com/ac2928/IS117FIRSTNEW
+https://github.com/ac2928/IS-117-Final-Portfolio-Project
 
 ---
 
