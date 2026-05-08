@@ -1,7 +1,7 @@
 # AGENTS.md — Master Implementation Letter
 
 ## The Mandate
-The goal of this website is to present Aarav Chopra as an NJIT CS student building toward a career as an AI Product Engineer. The site should communicate a clear professional direction, real shipped projects, and an intentional AI-assisted workflow — all within a dark editorial design that feels serious and future-facing.
+The goal of this website is to present Aarav Chopra as an NJIT BIS student building toward a career as an AI Product Engineer. The site should communicate a clear professional direction, real shipped projects, and an intentional AI-assisted workflow — all within a dark editorial design that feels serious and future-facing.
 
 ## The Tech Stack
 - HTML

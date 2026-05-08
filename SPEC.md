@@ -1,6 +1,6 @@
 # SPEC.md — Aspirational Portfolio Site
 ## Project Summary
-Build a single-page aspirational professional portfolio for Aarav Chopra, an NJIT CS student targeting AI Product Engineer roles. This is a full redesign from the previous Swiss Minimal portfolio into a dark editorial design system that communicates a forward-looking professional identity.
+Build a single-page aspirational professional portfolio for Aarav Chopra, an NJIT BIS student targeting AI Product Engineer roles. This is a full redesign from the previous Swiss Minimal portfolio into a dark editorial design system that communicates a forward-looking professional identity.
 
 This is not a refinement project — it is a purposeful redesign driven by a new professional direction.
 
